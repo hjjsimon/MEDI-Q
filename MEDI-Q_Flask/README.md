@@ -1,2 +1,2 @@
-# Medi_Q_Flask
-Medi_Q의 Flask RestFul Server
+# Medi-Q_Flask
+Medi-Q의 Flask RestFul Server
