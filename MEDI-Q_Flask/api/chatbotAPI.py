@@ -5,7 +5,7 @@ import os
 import pandas as pd
 import cx_Oracle
 
-openai.api_key = "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"
+openai.api_key = "api_key"
 
 def chatbot(content,model="gpt-3.5-turbo",messages=[],temperature=0):
     try:
